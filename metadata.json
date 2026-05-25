@@ -1,0 +1,6 @@
+{
+  "name": "Dr Ranjan Polyclinic",
+  "description": "Premium healthcare clinic in Brajrajnagar, Odisha. General Health Consultation, Diabetes & BP care, Child & Elder care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
